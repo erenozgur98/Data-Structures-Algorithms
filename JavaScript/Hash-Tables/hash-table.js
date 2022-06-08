@@ -1,3 +1,5 @@
+// How to write your own Hash Table in JS
+
 function hashStringToInt(s, tableSize) {
     let hash = 17;
 
